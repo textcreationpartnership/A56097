@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Protestant union, or, Principles wherein English Protestants are agreed</title>
+         </titleStmt>
+         <extent>Approx. 75KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56097</idno><idno type="EEBO-CITATION">12714964</idno>
+  <idno type="VID">66162</idno>
+  <idno type="EEBO-PROQUEST">2248594250</idno>
+  
+            <idno type="STC">Wing P3845</idno>
+            <idno type="STC">ESTC R10923</idno>
+            <idno type="OCLC">12714964</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56097)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66162)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 820:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Protestant union, or, Principles wherein English Protestants are agreed</title>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Richard Janeway ...,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1689]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England. --  Thirty-nine Articles.</term>
+               <term type="topical_term">Dissenters, Religious --  England.</term>
+               <term type="topical_term">Protestantism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="part">
+            <pb n="1" facs="tcp:66162:1"/>
+            <head>The Protestant UNION or PRINCIPLES wherein <hi>English Protestants</hi> are Agreed.</head>
+            <p>
+               <hi>THE Learned Dr.</hi> Barrow, <hi>in a Sermon concerning the Unity of the Church, on</hi> Eph. <hi>4. saith,</hi> It is evident the Church is one by consent in Faith and Opinion concerning all Principal Matters of Doctrine, especially in those which have considerable influence upon the Practice of Piety, towards God, Righteousness towards Men, and Sobriety of Con<g ref="char:EOLhyphen"/>versation. <hi>Whereupon what the sweet temper'd</hi> Dean <hi>of</hi> Canterbury <hi>did in a Sermon propose to the serious Consideration of his Countrymen of</hi> Yorkshire, <hi>should be well-weighed by all English Protestants,</hi> viz. Ought not the great Matters wherein we are agreed, our Ʋnion in the Doctrines of the Christian Religion, and in all the necessary Articles of that Faith which was once deliver'd to the Saints, in the same Sacraments, and in all the substantial parts of Gods Worship, and in the Duties of Christian Life, to be of greater force to unite us; than difference in doubtful Opinions, and in little Rites and Cir<g ref="char:EOLhyphen"/>cumstances of Worship to divide and break us? <hi>Dr.</hi> Warmestree, <hi>sometime Dean of</hi> Worcester, <hi>would have answer'd as he did in his</hi> Expedients for Peace <hi>(proposed to the Council of State, 1660.)</hi> All spiritual Tyranny should be laid aside, whereby Men take upon them to make their Judgments or Apprehensions, and too often their Passions and Interests, the Rule of other Mens Consciences: <hi>And again,</hi> That those things wherein we differ may be compos'd, by an Appeal to those things wherein we are Agreed. <hi>As 'tis plain the generality of English Protestants are in these ensuing</hi> Principles (<hi>saving that the</hi> Antipaedobap<g ref="char:EOLhyphen"/>tists <hi>do not allow the 84th Proposition) Because the Dissenters generally receive them, and by the Parallels in the other Column they are assented to by those that Subscribe to the 39</hi> Articles <hi>and</hi> Books of Homilies. <hi>As they have past two Editions more at large than here, 1672, and 1675. in the Explanation of the</hi> Principles, <hi>by</hi> Thomas Adams, <hi>sometime Chaplain to the Countess Dowager of</hi> Clare. <hi>Indeed the most Learned and Pious Archbishop</hi> Ʋsher <hi>did certainly much value these</hi> Principles <hi>when first Publish'd, affirming to some Persons, of credit then,</hi> That they were to be had in esteem above any Compos'd by any Synod since the Apostles times. <hi>So that considering this Agreement, and that Subscription by the 13</hi> Eliz. <hi>c. 12. is required with a limitation,</hi> viz. To the Articles of Religion, which [only] concern the Confession of the true Christian Faith, and the Doctrine of the Sacraments. Concerning Rites and Ceremonies by Political Constitution among us; <hi>As Archbishop</hi> Sands <hi>said,</hi> some of them are not so Expedient for this Church <hi>Now,</hi> but that in the Church Reformed, and in all this time of the Gospel, wherein the seed of the Scripture hath so long been sown, they may be better disused, by little and little, than more and more urged. <hi>Dr.</hi> Carlton <hi>sometime Bishop of</hi> Chichester, <hi>in his Examination of the</hi> Appeal <hi>saith,</hi> p. <hi>217. Printed 1626.</hi> Tho' the Church of <hi>England</hi> be the best Reformed Church, yet it is not the only Reformed Church: and it might seem no good Providence in us, to stand so by our selves, as to reject and disdain the consent of other Churches, tho' they do not agree with us in Discipline.—The Dissonance in Ceremonies, need not break the Consonance in Faith with those Churches, if we seek the Peace of the Churches that profess the same Doctrine. <hi>Sith it is asserted in the 34th Article of Religion of the Church of</hi> England, <hi>1562.</hi> It is not necessary that Traditions and Ceremonies be in all places one, or utterly like; for at all times they have been divers, and may be changed, according to the diversity of Countries, Times, and mens Manners, so that nothing be ordain'd against Gods Word. <hi>Wherefore Bishop</hi> Jewel <hi>in a Sermon of his to the University of</hi> Oxford, <hi>saith,</hi> If all the Worship of God, all Godliness, all Religion, be to be sought out of the Word of God: If the Institutions of Men have miserably perverted all things in all times; Let us, my Brethren, to whom the Office of Teaching is allotted, consider how dangerous a thing it is to speak more. <hi>These Principles wherein English Protestants agree, as founded upon, and agreeable to that Word, if not only received, but conscientiously practised, will be as a notable Preservation against Popery, so if not clogg'd with the imposition of Disputables, a good Defensative of U<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity at this time amongst English Protestants. Consi<g ref="char:EOLhyphen"/>dering Seven Bishops did profess in a Paper presented to the late King,</hi> They do not want tenderness to Dissenters: in rela<g ref="char:EOLhyphen"/>tion to whom they should be willing, to come to such a temper as should be thought fit, when Matters comes to be setled—<hi>Some of them afterwards advising the same King amongst things absolutely necessary to a Settlement, That</hi> He would suffer a free Parliament to redress Grievances, to settle Matters in Church and State upon just and solid Foundations, and Establish a due Liberty of Conscience. <hi>But, saith Bishop</hi> Jer. Taylor, (<hi>in his Cases of Conscience,</hi> l. <hi>3.</hi> c. <hi>4.</hi> R. <hi>20. Sect. 3.</hi>) When the Church doth any thing beyond her Commission, she doth no way oblige the Conscience, neither Actively, nor Passively.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="principles">
+                        <head>The main Principles of Religion own'd by Dissenters, agreeable to</head>
+                        <p n="1">1. MAns chief End, is to glorifie God, and to enjoy him for ever.</p>
+                        <p n="2">2. The Word of God (which is contained in the Scriptures of the Old and New Testament), is the only Rule to direct us how we glori<g ref="char:EOLhyphen"/>fie, and enjoy him.</p>
+                        <p n="3">3. The Scriptures principally teach, what man is to <hi>believe</hi> concern<g ref="char:EOLhyphen"/>ing God, and what <hi>duty</hi> God requireth of man.</p>
+                        <p n="4">4. God is a Spirit▪ Infinite, Eternal, and unchangeable in his Being, Wisdom, Power, Holiness, Justice, Goodness, and Truth.</p>
+                        <p n="5">5. There is but one only, the living and true God.</p>
+                        <p n="6">6. There are three Persons in the Godhead, the Father, the Son, and the Holy Ghost, and these three are one God, the same in substance, equal in power and glory.</p>
+                        <p n="7">7. The Decrees of God, are his eternal <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>urpose, according to the coun<g ref="char:EOLhyphen"/>sel of his own Will, whereby for his own glory he hath fore-ordained whatsoever comes to pass.</p>
+                        <p n="8">8. God executeth his Decrees, in the Work of Creation, and Pro<g ref="char:EOLhyphen"/>vidence.</p>
+                        <p n="9">
+                           <pb n="2" facs="tcp:66162:2"/>9. The work of Creation, is Gods making all things, of nothing, by the word of his power, in the space of fix days, and all very good.</p>
+                        <p n="10">10. God created man, male and female, after his own Image, in knowledg, righteousness, and holiness, with dominion over the crea<g ref="char:EOLhyphen"/>tures.</p>
+                        <p n="11">11. Gods works of Providence, are his most holy, wise, and power<g ref="char:EOLhyphen"/>ful preserving, and governing all his creatures, and all their actions.</p>
+                        <p n="12">12. When God had created man, he entred into a Covenant of life with him, upon condition of perfect obedience, forbidding him to eat of the tree of the knowledg of good and evil, upon pain of death.</p>
+                        <p n="13">13. Our first Parents being left to the freedom of their own will, fell from the state wherein they were created, by sinning against God.</p>
+                        <p n="14">14. Sin is any want of conformity unto, or transgression of the Law of God.</p>
+                        <p n="15">15. The sin whereby our first Parents fell from the estate wherein they were created, was their eating the forbidden fruit.</p>
+                        <p n="16">16. The Covenant being made with <hi>Adam</hi> not only for himself, but for his Posterity; all Mankind, descending from him by ordinary ge<g ref="char:EOLhyphen"/>neration, sinned in him, and fell with him in his first transgression.</p>
+                        <p n="17">17. The fall brought mankind into an estate of sin and misery.</p>
+                        <p n="18">18. The sinfulness of that estate whereunto man fell, consists in the guilt of <hi>Adam</hi>'s first sin, the want of original righteousness, and the cor<g ref="char:EOLhyphen"/>ruption of his whole nature, which is commonly called Original sin, together with all actual transgressions which proceed from it.</p>
+                        <p n="19">19. All mankind by their fall, lost communion with God, are un<g ref="char:EOLhyphen"/>der his wrath and curse, and so made liable to all miseries in this life, to death it self, and to the pains of hell for ever.</p>
+                        <p n="20">20. God having out of his meer good pleasure, from all eternity, elected some to everlasting life, did enter into a Covenant of Grace, to deliver them out of the estate of sin and misery, and to bring them into an estate of salvation by a Redeemer.</p>
+                        <p n="21">21. The only Redeemer of Gods Elect is the Lord Jesus Christ, who being the eternal Son of God, became man, and so was, and conti<g ref="char:EOLhyphen"/>nueth to be God and man, in two distinct natures, and one person, for ever.</p>
+                        <p n="22">22. Christ the Son of God became man, by taking to himself a true body, and a reasonable soul, being conceived by the power of the Holy Ghost, in the womb of the Virgin <hi>Mary,</hi> and born of her, yet without sin.</p>
+                        <p n="23">23. Christ as our Redeemer, executeth the Offices of a Prophet, of a Priest, and of a King, both in his Estate of Humiliation and Exaltation.</p>
+                        <p n="24">24. Christ executeth the Office of a Prophet, in revealing to us, by his Word, and Spirit, the Will of God for our Salvation.</p>
+                        <p n="25">25. Christ executeth the Office of a Priest, in his once offering up of himself a Sacrifice to satisfie Divine Justice, and to reconcile us to God; and in making continual intercession for us.</p>
+                        <p n="26">26. Christ executeth the Office of a King, in subduing us to himself, in ruling and defending us, and in restraining and conquering all his and our Enemies.</p>
+                        <p n="27">27. Christs Humiliation consisted in his being born, and that in a low condition, made under the Law, undergoing the miseries of this life, the wrath of God, and the cursed death of the Cross, in being buried, and continuing under the power of death for a time.</p>
+                        <p n="28">28. Christs Exaltation consisteth in his rising again from the dead on the third day, in ascending up into Heaven, and sitting at the right hand of God the Father, and in coming to judg the world at the last day.</p>
+                        <p n="29">29. We are made partakers of the Redemption purchased by Christ, by the effectual application of it to us, by his holy Spirit.</p>
+                        <p n="30">30. The Spirit applieth to us the Redemption purchased by Christ, by working faith in us, and thereby uniting us to Christ in our Effe<g ref="char:EOLhyphen"/>ctual Calling.</p>
+                        <p n="31">31. Effectual Calling is the work of Gods Spirit, whereby convin<g ref="char:EOLhyphen"/>cing us of our sin and misery, enlightning our minds in the knowledg
+<pb n="3" facs="tcp:66162:2"/> of Christ, and renewing our wills, he doth perswade and enable us to embrace Jesus Christ freely offered to us in the Gospel.</p>
+                        <p n="32">32. They that are Effectually called, do in this life partake of Justi<g ref="char:EOLhyphen"/>fication, Adoption, Sanctification, and the several benefits which in this life do either accompany, or flow from them.</p>
+                        <p n="33">33. Justification is an act of Gods free-grace, wherein he par<g ref="char:EOLhyphen"/>doneth all our sins, and accepteth us as righteous in his sight, only for the righteousness of Christ imputed to us, and received by faith alone.</p>
+                        <p n="34">34. Adoption is an Act of Gods free-grace, whereby we are recei<g ref="char:EOLhyphen"/>ved into the number, and have right to all the priviledges of the Sons of God.</p>
+                        <p n="35">35. Sanctification is the work of Gods free-grace, whereby we are renewed in the whole man, aft<gap reason="illegible" resp="#keyers" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> the Image of God, and are enabled more and more to die unto sin, and live unto righteousness.</p>
+                        <p n="36">36. The benefits which in this life do accompany or flow from Justification, Adoption, and Sanctification, are assurance of Gods love, peace of Conscience, joy in the Holy Ghost, encrease of grace, and perseverance thereunto unto the end.</p>
+                        <p n="37">37. The Souls of Believers are at their death made perfect in holi<g ref="char:EOLhyphen"/>ness, and do immediately pass into glory, and their bodies being still united to Christ, do rest in their Graves, till the Resurrection.</p>
+                        <p n="38">38. At the Resurrection, Believers being raised up in Glory, shall be openly acknowledged and acquitted in the day of judgment, and made perfectly blessed in full enjoying of God, to all Eternity.</p>
+                        <p n="39">39. The duty which God requireth of man, is obedience to his re<g ref="char:EOLhyphen"/>vealed Will.</p>
+                        <p n="40">40. The Rule which God at first revealed to man for his obedience, was the Moral Law.</p>
+                        <p n="41">41. The Moral Law is summarily comprehended in the Ten Com<g ref="char:EOLhyphen"/>mandments.</p>
+                        <p n="42">42. The sum of the Ten Commandments, is to love the Lord our God with all our heart, with all our soul, with all our strength, and with all our mind, and our neighbour as our selves.</p>
+                        <p n="43">43. The Preface and Ten Commandments are in <hi>Exod.</hi> 20.2.</p>
+                        <p n="44">44. The Preface to the Ten Commandments teacheth us, That be<g ref="char:EOLhyphen"/>cause God is the Lord, and our God and Redeemer, therefore we are bound to keep all his Commandments.</p>
+                        <p n="45">45. The first Commandment requireth us to know, and acknow<g ref="char:EOLhyphen"/>ledg God to be the only true God, and our God, and to worship and glorifie him accordingly.</p>
+                        <p n="46">46. The first Commandment forbiddeth the denying, or not wor<g ref="char:EOLhyphen"/>shipping and glorifying the true God as God, and our God, and the giving that worship and glory to any other which is due to him alone.</p>
+                        <p n="47">47. These words <hi>[before me]</hi> in the first Commandment teach us, that God who seeth all things, taketh notice of, and is much displea<g ref="char:EOLhyphen"/>sed with the sin of having any other God.</p>
+                        <p n="48">48. The second Commandment requireth the receiving, observing, and keeping pure and entire all such religious Worship and Ordinan<g ref="char:EOLhyphen"/>ces, as God hath appointed in his Word.</p>
+                        <p n="49">49. The second Commandment forbiddeth the worshipping of God by Images, or any other way not appointed in his Word.</p>
+                        <p n="50">50. The Reasons annexed to the second Commandment, are Gods Soveraignty over us, his propriety in us, and the zeal he hath to his own Worship.</p>
+                        <p n="51">51. The third Commandment requireth the holy and reverent use of Gods Names, Titles, Attributes, Ordinances, Word, and Works.</p>
+                        <p n="52">
+                           <pb n="4" facs="tcp:66162:3"/>52. The third Commandment forbiddeth all prophaning, or abusing of any thing whereby God maketh himself known.</p>
+                        <p n="53">53. The reason annexed to the third Commandment is, that how<g ref="char:EOLhyphen"/>ever the breakers of this Commandment may escape punishment from men, yet the Lord our God will not suffer them to escape his righteous judgment.</p>
+                        <p n="54">54. The fourth Commandment requireth the keeping holy to God such set-times as he hath appointed in his Word, expresly one whole day in seven, to be a holy Sabbath unto himself.</p>
+                        <p n="55">55. From the beginning of the World to the Resurrection of Christ, God appointed the seventh day of the week to be the weekly Sabbath, and the first day of the week ever since to continue to the end of the World, which is the Christian Sabbath.</p>
+                        <p n="56">56. the Sabbath is to be sanctified by an holy resting all that day, even from such worldly employments and recreations as are lawful on other days, and spending the whole time in publick and private exercises of Gods Worship, except so much as is to be taken up in the works of ne<g ref="char:EOLhyphen"/>cessity and mercy.</p>
+                        <p n="57">57. The fourth Commandment forbiddeth the omission or care<g ref="char:EOLhyphen"/>less performance of the Duties required and the profaning the day by Idleness, or doing that which is in it self sinful, or by un<g ref="char:EOLhyphen"/>necessary thoughts, words, or works, about worldly employments or recreations.</p>
+                        <p n="58">58. The Reasons annexed to the fourth Commandment are, Gods allowing us six days of the week for our own employments, his chal<g ref="char:EOLhyphen"/>lenging special propriety in the seventh, his own example, and his blessing the Sabbath-day.</p>
+                        <p n="59">59. The fifth Commandment requireth the preserving the honour, and performing the duties belonging to every one in their several places and relations, as Superiors, Inferiors, or Equals.</p>
+                        <p n="60">60. The fifth Commandment forbiddeth the neglecting, or doing any thing against the honour and duty which belongeth to every one in their several places and relations.</p>
+                        <p n="61">61. The Reason annexed to the fifth Commandment is, a promise of long life and prosperity (as far as it shall serve for Gods glory, and their own good) to all such as keep this Commandment.</p>
+                        <p n="62">62. The sixth Commandment requireth all lawful endeavours to preserve our own life, and the life of others.</p>
+                        <p n="63">63. The sixth Commandment forbiddeth the taking away of our own life, or the life of our neighbour unjustly, and whats<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ever tendeth thereunto.</p>
+                        <p n="64">64. The seventh Commandment requireth the preservation of our own, and our neighbours chastity, in heart, speech, and be<g ref="char:EOLhyphen"/>haviour.</p>
+                        <p n="65">65. The seventh Commandment forbiddeth all unchast thoughts, words, and actions.</p>
+                        <p n="66">66. The eighth Commandment requireth the lawful procuring and furthering the wealth and outward estate of our selves, and others.</p>
+                        <p n="67">67. The eighth Commandment forbiddeth whatsoever doth, or may unjustly hinder our own, or our neighbours wealth, and out<g ref="char:EOLhyphen"/>ward estate.</p>
+                        <p n="68">68. The ninth Commandment requireth the maintaining and pro<g ref="char:EOLhyphen"/>moting of truth between man and man, and of our own, and our neigh<g ref="char:EOLhyphen"/>bours good name, especially in witness-bearing.</p>
+                        <p n="69">69 The ninth Commandment forbiddeth whatsoever is prejudicial to truth, or injurious to our own, or our neighbours good name.</p>
+                        <p n="70">70. The tenth Commandment requireth full contentment with our own condition, with a right and charitable frame of spirit towards our neighbour, and all that is his.</p>
+                        <p n="71">71. The tenth Commandment forbiddeth all discontentment with our own estate, envying or grieving at the good of our neighbour, and <gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ll nordinate motions and affections to any thing that is his.</p>
+                        <p n="72">
+                           <pb n="5" facs="tcp:66162:3"/>72. No meer man since the Fall, is able in this life perfectly to keep the Commandments of God, but daily doth break them in thought, word, and deed.</p>
+                        <p n="73">73. Some sins in themselves, and by reason of several aggravations, are more hainous in the sight of God, than others.</p>
+                        <p n="74">74. Every sin deserveth Gods wrath and curse, both in this life, and that which is to come.</p>
+                        <p n="75">75. To escape the wrath and curse of God due to us for sin, God re<g ref="char:EOLhyphen"/>quireth of us Faith in Jesus Christ, repentance unto life, with the dili<g ref="char:EOLhyphen"/>gent use of all outward means, whereby Christ communicateth to us the benefits of Redemption.</p>
+                        <p n="76">76. Faith in Jesus Christ is a saving grace, whereby we receive, and rest upon him alone for salvation, as he is offered to us in the Gospel.</p>
+                        <p n="77">77. Repentance unto life is a saving grace, whereby a Sinner out of the true sense of his sin, and apprehension of the mercy of God in Christ, doth with grief and hatred of his sin turn from it unto God, with full purpose of, and endeavours after new obedience.</p>
+                        <p n="78">78. The outward and ordinary means whereby Christ communica<g ref="char:EOLhyphen"/>teth to us the benefits of Redemption, are his Ordinances, especially the Word, Sacraments, and Prayer, all which are made effectual to the Elect for salvation.</p>
+                        <p n="79">79. The Spirit of God maketh the reading, but especially the preach<g ref="char:EOLhyphen"/>ing of the Word, an effectual means of convincing and converting Sin<g ref="char:EOLhyphen"/>ners, and of building them up in holiness and comfort, through faith unto salvation.</p>
+                        <p n="80">80. That the Word may become effectual to salvation, we must at<g ref="char:EOLhyphen"/>tend thereunto with diligence, pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                              <desc>•</desc>
+                           </gap> ration, and prayer, receive it with faith, and love, lay it up in our hearts, and practise it in our lives.</p>
+                        <p n="81">81. The Sacraments become effectual means of salvation, not from any virtue in them, or in him that doth administer them, but only by the blessing of Christ, and the working of his Spirit in them that by Faith receive them.</p>
+                        <p n="82">82. A Sacrament is an holy Ordinance, instituted of Christ, wherein by sensible signs, Christ and the benefits of the New Covenant are re<g ref="char:EOLhyphen"/>presented, sealed, and applied to Believers.</p>
+                        <p n="83">83. The Sacraments of the new Testament are Baptism, and the Lords Supper.</p>
+                        <p n="84">84. Baptism is a Sacrament, wherein the washing with water in the Name of the Father, and of the Son, and of the Holy Ghost, doth sig<g ref="char:EOLhyphen"/>nifie and seal our ingrafting into Christ, and partaking of the benefits of the Covenant of Grace, and our engagement to be the Lords.</p>
+                        <p n="85">85. Baptism is not to be administred to any out of the visible Church, till they profess their faith in Christ, and obedience to him, but the In<g ref="char:EOLhyphen"/>fants of such as are members of the visible Church are to be baptized.</p>
+                        <p n="86">86. The Lords Supper is a Sacrament, wherein by giving and receiving Bread and Wine, according to Gods appointment, his death is shewed forth, and the worthy receivers are not after a corporal and carnal man<g ref="char:EOLhyphen"/>ner, but by faith made partakers of his body and blood, with all his be<g ref="char:EOLhyphen"/>nefits, to their spiritual nourishment and growth in grace.</p>
+                        <p n="87">87. It is required of them that would worthily partake of the Lords Supper, that they examine themselves of their knowledg to discern the Lords body, of their faith to feed upon him, of their repentance, love, and new obedience, lest coming unworthily, they eat and drink judg<g ref="char:EOLhyphen"/>ment to themselves.</p>
+                        <p n="88">88. Prayer is an offering up of our desires to God, for things agreea<g ref="char:EOLhyphen"/>ble to his will, in the name of Christ, with confession of our sins, and thankful acknowledgment of his mercies.</p>
+                        <p n="89">
+                           <pb n="6" facs="tcp:66162:4"/>89. The whole Word of God is of use to direct us in Prayer, but the special Rule of Direction, is that Form of Prayer, which Christ taught his Disciples, commonly called the Lords Prayer.</p>
+                        <p n="90">90. The Preface of the Lords Prayer, which is, <hi>Our Father which art in Heaven;</hi> teacheth us, to draw near to God with all holy reverence, and confidence, as children to a Father, able and ready to help, and that we should pray with, and for others.</p>
+                        <p n="91">91. In the first Petition, which is, <hi>Hallowed be thy Name;</hi> We pray, that God would enable us and others to glorifie him in all that where<g ref="char:EOLhyphen"/>by he makes himself known, and that he would dispose all things to his own glory.</p>
+                        <p n="92">92. In the second Petition, which is, <hi>Thy Kingdom come;</hi> We pray, that Satans Kingdom may be destroyed, that the Kingdom of Grace may be advanced, our selves and others brought into it, and kept in it, and that the Kingdom of Glory may be hastened.</p>
+                        <p n="93">93. In the third Petition, which is, <hi>Thy will be done on Earth, as it is in Heaven;</hi> We pray, that God by his grace would make us able and wil<g ref="char:EOLhyphen"/>ling to know, obey, and submit to his will in all things, as the Angels do in Heaven.</p>
+                        <p n="94">94. In the fourth Petition, which is, <hi>Give us this day our daily Bread;</hi> We pray, that of Gods free gift we may receive a competent portion of the good things of this life, and enjoy his blessings with them.</p>
+                        <p n="95">95. In the fifth Petition, which is, <hi>And forgive us our debts, as we for<g ref="char:EOLhyphen"/>give our debtors;</hi> We pray, that God for Christs sake would freely par<g ref="char:EOLhyphen"/>don all our sins, which we are the rather encouraged to ask, because by his grace we are enabled from the heart to forgive others.</p>
+                        <p n="96">96. In the sixth Petition, which is, <hi>And lead us not into temptation, but deliver us from evil;</hi> We pray, that God would either keep us from being tempted to sin, or support and deliver us when we are tempted.</p>
+                        <p n="97">97. The Conclusion of the Lords Prayer, which is, <hi>For thine is the King<g ref="char:EOLhyphen"/>dom, and the Power, and the Glory, for ever,</hi> Amen; teacheth us, to take our encouragement in prayer from God only, and in our Prayers to praise him, ascribing Kingdom, power, and glory to him, and in testi<g ref="char:EOLhyphen"/>mony of our desire and assurance to be heard, we say, <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="articles">
+                        <head>The Articles and Homilies of the Church of <hi>England.</hi>
+                        </head>
+                        <p n="1">
+                           <hi>1. Homil. 3.</hi>
+                           <q>
+                              <hi>OF Salvation.</hi>—Above all things, and in all things, advance the glory of God; of whom only we have our Sanctification, Justification, Salvation, and Redemption.</q>
+                        </p>
+                        <p n="2">
+                           <hi>2. Artic. vj.</hi>
+                           <q>In the name of the Holy Scripture we do understand those Ca<g ref="char:EOLhyphen"/>nonical Books of the Old and New Testament, of whose Authority was never any doubt in the Church. <hi>Homil. 1.</hi> Unto a Christian man there can be no<g ref="char:EOLhyphen"/>thing either more necessary or profitable, than the knowledge of holy Scripture; for as much as in it is contained God's true Word, setting forth his Glory, and also Man's Duty.—</q>
+                        </p>
+                        <p n="3">
+                           <hi>3. Homil. 1.</hi>
+                           <q>In holy Scripture is fully contained what we ought to do, and what to eschew; what to believe, what to love, and what to look for at God's hand at length.</q>
+                        </p>
+                        <p n="4">
+                           <hi>4. Homil. xvij.</hi>
+                           <q>It passeth far the dark understanding and wisdom of a mortal Man to speak sufficiently of that Divine Majesty which the Angels can<g ref="char:EOLhyphen"/>not understand. <hi>Considering</hi> the unsearchable nature of Almighty God,— to reverence and dread his Majesty,—excellent Power,—incomparable Wis<g ref="char:EOLhyphen"/>dom,—inestimable Goodness,—to take him for God Omnipotent, Invisible.</q>
+                        </p>
+                        <p n="5">
+                           <hi>5. Artic. I.</hi>
+                           <q>There is but one living and true God, everlasting, without Body, Parts, or Passions; of infinite Power, Wisdom, and Goodness, the Maker and Preserver of all things, both visible and invisible.</q>
+                        </p>
+                        <p n="6">
+                           <hi>6. Artic. I.</hi>
+                           <q>And in unity of this Godhead there be three Persons, of one Substance, Power, and Eternity, the Father, the Son, and the Holy Ghost.</q>
+                        </p>
+                        <p n="7">
+                           <hi>7. Artic. xvij.</hi>—<q>Everlasting purpose of God, whereby (before the founda<g ref="char:EOLhyphen"/>tions of the world were laid) he hath constantly decreed by his counsel, secret to us, <hi>&amp;c.</hi>
+                           </q>
+                        </p>
+                        <p n="8">
+                           <hi>8. Homil. xvij.</hi> — <q>Praise of Almighty God— in the consideration of the marvellous Creation of this World, or — conservation and Govern<g ref="char:EOLhyphen"/>ment thereof.</q>
+                        </p>
+                        <p n="9">
+                           <pb n="2" facs="tcp:66162:2"/>
+                           <hi>9. To. 2. Hom. viij.</hi>
+                           <q>God through his Almighty power, wisdom, and goodness, created in the beginning Heaven and Earth, the Sun, the Moon, the Stars, the Fowls of the Air, the Beasts of the Earth, the Fishes in the Sea, and all other Creatures for the benefit and use of man.</q>
+                        </p>
+                        <p n="10">
+                           <hi>10. Homil. xij.</hi>
+                           <q>He was made after the similitude and image of God, en<g ref="char:EOLhyphen"/>dued with all kind of heavenly gifts; he had no spot of uncleanness in him, was sound and perfect in all parts, both inwardly and outwardly; his reason was uncorrupt, his understanding was pure and good, his will was obedient and godly; he was made altogether like unto God, in righteousness and holi<g ref="char:EOLhyphen"/>ness, in wisdom and truth; in all kind of perfection— Lord and Ruler over all the works of his hands.</q>
+                        </p>
+                        <p n="11">
+                           <hi>11. Homil. xvij.</hi>
+                           <q>—Take him for God omnipotent, invisible, having rule in Heaven and Earth, having all things in subjection, and will have none in counsel with him, nor any to ask the reason of his doing; for he may do what liketh him, and none can resist him: <hi>Dan. 11.</hi> For he worketh all things in his secret judgment to his own pleasure, yea even the wicked to damnation, saith <hi>Solomon,</hi> Prov. <hi>16.</hi> — God hath not so created the world that he is careless of it, but he still preserveth it by his goodness; he still stayeth it in his creation.</q>—</p>
+                        <p n="12">
+                           <hi>12. To. 2. Homil. xxj.</hi>
+                           <q>God, as soon as he had created man, gave unto him a certain Precept and Law, which he (being yet in the state of innocency, and remaining in Paradise) should observe as a pledg and token of his due and bounden obedience, with denunciation of death, if he did transgress and break the said Law and Commandment.</q>—</p>
+                        <p n="13">
+                           <hi>13. To. 2. Hom. xiij. Par. 2.</hi>
+                           <q>When our great Grandfather <hi>Adam</hi> had broken Gods Commandment, in eating the Apple forbidden him in Paradise, at the motion and suggestion of his wife, he purchased thereby, not only to himself, but also to his posterity for ever, the just wrath and indignation of God.</q>
+                        </p>
+                        <p n="14">
+                           <hi>14. 1 Joh. 3.4,</hi> Whosoever committeth sin, transgresseth also the law; for 'sin is the transgression of the law.</p>
+                        <p n="15">
+                           <hi>15. Homil. xij.</hi>
+                           <q>This first man <hi>Adam,</hi> who having but one Command<g ref="char:EOLhyphen"/>ment at Gods hand, namely, that he should not eat of the fruit <hi>of knowledg of good and evil,</hi> did notwithstanding most unmindfully, or rather most wil<g ref="char:EOLhyphen"/>fully break it.</q>
+                        </p>
+                        <p n="16">
+                           <hi>16. Homil. xij.</hi>
+                           <q>The judgment of everlasting death fell not only on him, but also on his posterity and children for ever; so that the whole brood of <hi>Adams</hi> flesh should sustain the self-same fall and punishment which their fore-father by his offence most fully had deserved.</q>
+                        </p>
+                        <p n="17">
+                           <hi>17. Homil. 2. p. 1.</hi>
+                           <q>
+                              <hi>Job</hi> having in himself great experience of the mi<g ref="char:EOLhyphen"/>serable and sinful estate of man, doth open the same to the world, <hi>Chap. 14.</hi>
+                           </q>
+                        </p>
+                        <p n="18">
+                           <hi>18. Artic. IX.</hi>
+                           <q>Original or birth-sin is the fault and corruption of the na<g ref="char:EOLhyphen"/>ture of every man that naturally is ingendred of the off-spring of <hi>Adam,</hi> whereby man is very far gone from original Righteousness, and is of his own nature inclin'd to evil.</q>
+                        </p>
+                        <p n="19">
+                           <hi>19. Homil. xij.</hi>
+                           <q>As in <hi>Adam</hi> all men universally sinned; so in <hi>Adam</hi> all men universally received the reward of their sin, <hi>i. e.</hi> they became mortal and subject unto death, having in themselves nothing but everlasting damnation both of body and soul.</q>
+                        </p>
+                        <p n="20">
+                           <hi>20. Artic. xvij.</hi>
+                           <q>Predestination to life is the everlasting purpose of God, whereby (before the foundations of the world were laid) he hath constantly decreed by his counsel secret to us, to deliver from curse and damnation those whom he hath chosen in Christ out of Mankind, and to bring them to everlasting salvation, as vessels made unto honour.</q>
+                        </p>
+                        <p n="21">
+                           <hi>21. Artic. xviij.</hi>
+                           <q>The holy Scripture doth set out unto us only the name of Jesus Christ, whereby men must be saved. <hi>Hom. x. p. 2.</hi> — Reprobates perish through their own default. <hi>Artic. 11.</hi> The Godhead, and Manhood were joyned together in one Person, never to be divided.</q>
+                        </p>
+                        <p n="22">
+                           <hi>22. Artic. xv.</hi>
+                           <q>Christ in the truth of our nature was made like unto us in all things; sin only except, from which he was clear and void, both in his flesh and in his spirit. <hi>Artic. II.</hi> The Son, of one substance with the Father, took mans nature in the womb of the Virgin <hi>Mary,</hi> of her substance.</q>
+                        </p>
+                        <p n="23">
+                           <hi>23. Act. 3.20. — Hom. of Faith,</hi>
+                           <q>We have our Saviour Christ our per<g ref="char:EOLhyphen"/>petual Adv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>cate, and Prince.</q>
+                        </p>
+                        <p n="24">
+                           <hi>24. Homil. xvij.</hi>
+                           <q>Our Heavenly Mediator is he whom the Father in Hea<g ref="char:EOLhyphen"/>ven delighteth to have for his beloved Son, authorized to be our Teacher, whom he charged us to hear, saying, <hi>Hear him.</hi>
+                           </q>
+                        </p>
+                        <p n="25">
+                           <hi>25. To. 1. Hom. III. p. 2.</hi>
+                           <q>We must trust only in God's mercy, and that Sacrifice which our High-Priest and Saviour Christ Jesus the Son of God once offered for us upon the Cross. <hi>To. II. Homil. xj.</hi> Reconciled to Gods fa<g ref="char:EOLhyphen"/>vour, we are taught to know what Christ by his intercession and mediation ob<g ref="char:EOLhyphen"/>taineth for us of his Father, when we be obedient to his Will.</q>
+                        </p>
+                        <p n="26">
+                           <hi>26. To. 2. Homil. xiv.</hi>
+                           <q>He sitteth on the right hand of his Heavenly Fa<g ref="char:EOLhyphen"/>ther, having the rule of heaven and earth; reigning as the Prophet saith, <hi>Psalm. 17. from Sea to Sea,</hi> — he hath overcome the Devil, Death, and Hell, and hath victoriously gotten the better hand of them all, to make us free and safe from them.</q>
+                        </p>
+                        <p n="27">
+                           <hi>27. Homil. III. p. 3.</hi> — <q>Hath given his own natural Son, being God eternal, immortal, and equal unto himself in power and glory, to be incar<g ref="char:EOLhyphen"/>nated, and take our mortal nature upon him, with the infirmities of the same, and in the same nature to suffer most painful and shameful death for our offen<g ref="char:EOLhyphen"/>ces, to the intent to justifie us, and restore us to life everlasting.</q>
+                        </p>
+                        <p n="28">
+                           <hi>28. Artic. IV.</hi>
+                           <q>Christ did truly rise again from death, and took again his body, wherewith he ascended into Heaven, and there sitteth until he return to judg all men at the last day.</q>
+                        </p>
+                        <p n="29">
+                           <hi>29. Artic. xvij.</hi> — <q>They which be endued with so excellent a benefit of God <hi>(viz. Election)</hi> be called according to Gods purpose, working in due sea<g ref="char:EOLhyphen"/>son; they through grace obey the calling; be freely justified, <hi>&amp;c.</hi>
+                           </q>
+                        </p>
+                        <p n="30">
+                           <hi>30. Hom. xvj. p. 2.</hi>
+                           <q>The Holy Ghost is a Spiritual and Divine Substance, the Third person in the Trinity, distinct from the Father and the Son, and yet proceeding from them both,— doth regenerate; quicken the minds of men, stirring up good and godly motions in their hearts, which are agreeable to the will and commandment of God.</q>
+                        </p>
+                        <p n="31">
+                           <hi>31. Artic. X.</hi>
+                           <q>We have no power to do good works pleasant and accepta<g ref="char:EOLhyphen"/>ble to God, without the grace of God by Christ preventing us, that we may
+<pb n="3" facs="tcp:66162:2"/> have a good will, and working with us when we have that good will. <hi>Hom. II. Of Alms, p. 2.</hi> Man is first made good by the Spirit and grace of God, that effectually worketh in him, and afterward he bringeth forth good fruit.</q>
+                        </p>
+                        <p n="32">
+                           <hi>32. Artic. xvij.</hi> — <q>They through grace obey the Calling; they be justi<g ref="char:EOLhyphen"/>fied freely, they be made Sons of God by Adoption; they be made like the image of his only begotten Son Jesus Christ; they walk religiously in good works, and at length by Gods mercy they attain to everlasting felicity.</q>
+                        </p>
+                        <p n="33">
+                           <hi>33. Artic. II.</hi>
+                           <q>We are accounted righteous before God, only for the merit of our Lord and Saviour Jesus Christ by faith, and not for our own works or deservings. <hi>To. 1. Hom. III.</hi> — and this which we so receive of Gods mercy and Christs merits embraced by faith, is taken, accepted, and allow'd of God for our perfect and full justification.</q>
+                        </p>
+                        <p n="34">
+                           <hi>34. Tom. 1. Hom. III. p. 3.</hi> — <q>Making us also his dear children, bre<g ref="char:EOLhyphen"/>thren unto his only Son, our Saviour Christ, and inheritors for ever with him of his eternal Kingdom of Heaven. <hi>Hom. X. p. 2.</hi> He is a rising up to none other than those which are Gods children by adoption.</q>
+                        </p>
+                        <p n="35">
+                           <hi>35. Hom. II. p. 2.</hi>
+                           <q>The holy Apostle calleth us Saints, because we are sanctified and made holy by the blood of Christ through the Holy Ghost. <hi>Hom. xvj. p. 1.</hi>— It is he which inwardly worketh the regeneration and new birth —</q>
+                        </p>
+                        <p n="36">
+                           <hi>36. To. 1. Hom. ix. p. 2.</hi>
+                           <q>All those therefore have great cause to be full of joy, that be joyned to Christ with true faith, stedfast hope, and perfect cha<g ref="char:EOLhyphen"/>rity, and not to fear death nor everlasting damnation.— Their godly con<g ref="char:EOLhyphen"/>versation in this life, and belief in Christ, cleaving continually to his mercies, should make them so long sore after that life that remaineth for them undoubt<g ref="char:EOLhyphen"/>edly after this bodily death. <hi>To. 2. Hom. xij.</hi> Released from the burden of sin, justified through faith in his blood, and finally received up into everlasting glory, there to reign with him for ever.</q>
+                        </p>
+                        <p n="37">
+                           <hi>37. Artic. xxij.</hi>
+                           <q>The <hi>Romish</hi> Doctrine concerning Purgatory, Pardons,— is vainly feigned, and grounded upon no warrant of Scripture, but rather repugnant to the Word of God. <hi>Hom. vij. Of Prayer, p. 3.</hi> The soul of man passing out of the Body, goeth straightways either to Heaven, or else to Hell.</q>
+                        </p>
+                        <p n="38">
+                           <hi>38. To. 2. Hom. xiv.</hi> — <q>By his resurrection hath he purchased life and victory for us,—opened the gates of Heaven, to enter into life everlasting. — Rising with him by our faith, we shall have our bodies likewise raised again from death, to have them glorified in immortality, and joyned to his glorious body.</q>
+                        </p>
+                        <p n="39">
+                           <hi>39. To. 2. Hom. X. p. 3.</hi>
+                           <q>Mark diligently what his will is you should do, and with all your endeavour apply your selves to follow the same.</q>
+                        </p>
+                        <p n="40">
+                           <hi>40. To. 2. Hom. X.</hi>
+                           <q>Let us esteem the holy Table of Gods Word, — appointed by him, to instruct us in all necessary works, so that we may be perfect before him in the whole course of our life.</q>
+                        </p>
+                        <p n="41">
+                           <hi>41. Homil. V.</hi>
+                           <q>Christ rehearsing the Commandments, declared, that the Laws of God be the very Way that doth lead to everlasting life, and not the Traditions and Laws of men.</q>
+                        </p>
+                        <p n="42">
+                           <hi>42. Hom. V. p. 3.</hi>
+                           <q>Mark diligently <hi>what Gods</hi> will is that you should do, and with all your endeavour apply your selves to follow the same. 1st, You must have assured faith in God, and give your selves wholly unto him, love him in prosperity and adversity, and dread to offend him ever more. Then for his sake love all men.</q>
+                        </p>
+                        <p n="43">
+                           <hi>43. To. 2. Hom. II.</hi>—<q>The same Preface to make them to take the bet<g ref="char:EOLhyphen"/>ter heed unto it.</q>
+                        </p>
+                        <p n="44">
+                           <hi>44. To. 1. Hom. V. p. 2.</hi>
+                           <q>Christ, — reprov'd the Laws and Traditions made by the Scribes and Pharisees, which were not only for good order of the people (as the Civil Laws were), but they were set up so high, that they were made to be right and pure worshipping of God, as they had been equal with Gods Laws, or above them; for many of Gods Laws could not be kept, but were fain to give way unto them.</q>
+                        </p>
+                        <p n="45">
+                           <hi>45. Homil. II. p. 3.</hi>
+                           <q>Let us have no strange gods, but one only God, who made us when we were nothing, the Father of our Lord Jesus Christ, who re<g ref="char:EOLhyphen"/>deemed us when we were lost, and with his Holy Spirit doth sanctifie us. <hi>To. 2. Hom. xvij.</hi> What availeth it the wisemen of the world to have know<g ref="char:EOLhyphen"/>ledg of the Power and Divinity of God — where they did not honour and glo<g ref="char:EOLhyphen"/>rifie him in their knowledges as God?</q>
+                        </p>
+                        <p n="46">
+                           <hi>46. To. 1. Hom. VIII.</hi>
+                           <q>Whoever in time of reading Gods Word, studieth for the glory and honour of this World, is turned from God, — and hath not a special mind to that which is commanded and taught of God; is turned from God, although he doth things of his own devotion and mind, which to him seem better and more to Gods honour.</q>
+                        </p>
+                        <p n="47">
+                           <hi>47. To. 2. Hom. 1.</hi> — <q>
+                              <hi>Thou shalt worship the Lord God, and him only shalt thou serve.</hi> Adjoyning penalty to the transgressors, and reward to the obedient,—to move to obedience and observing this the Lords great Law,— which might ingender fear in our hearts of <hi>disobedience</hi> herein, being in the Lords sight so great an offence and abomination.</q>
+                        </p>
+                        <p n="48">
+                           <hi>48. Hom. II. p. 3.</hi>
+                           <q>Let us honour and worship for Religions sake none but God; and him let us worship and honour as he will himself, and hath declared by his Word, that he will be worshipp'd and honoured, not in, nor by Images or Idols, but in spirit and in truth, fearing and loving him above all things, trusting in him only, calling upon him, and praying to him only, praising and lauding of him only.</q>
+                        </p>
+                        <p n="49">
+                           <hi>49. To. 2. Hom. II. p. 1.</hi>
+                           <q>Lest the Doctrine against Images should not be marked or remarked, the same is written and required not in one but in sundry places of the Word of God. — It is not possible to keep men from Idolatry, if Images be suffer'd publickly.</q> —</p>
+                        <p n="50">
+                           <hi>50. Hom. II. p 1.</hi>
+                           <q>Concerning none other matter did God give more, or more earnest and express Laws to his people than those that concern the true worshipping of him, and the avoiding and fleeing of Idols, and Images, and Idolatry.</q>
+                        </p>
+                        <p n="51">
+                           <hi>51. Artic. 39.</hi>
+                           <q>As we confess vain and rash swearing is forbidden Chri<g ref="char:EOLhyphen"/>stian men by our Lord Jesus Christ and <hi>James</hi> his Apostle: So we judg, that Christian Religion doth not prohibit, but that a man may swear when the Magistrate requireth, in a cause of Faith and Charity, so it be done according to the Prophets teaching, in <hi>justice, judgment,</hi> and <hi>truth.</hi>
+                           </q>
+                        </p>
+                        <p n="52">
+                           <pb n="4" facs="tcp:66162:3"/>
+                           <hi>52. Hom. VII.</hi>
+                           <q>He forbiddeth all vain swearing and forswearing, both by God and by his creatures, as the common use of swearing, in buying, selling, and our daily communication.—</q>
+                        </p>
+                        <p n="53">
+                           <hi>53. To. 1. Hom. VII.</hi>
+                           <q>The most holy Name of God being commonly used and abused, vainly and unreverently talk'd of, sworn by, and forsworn to the breaking of Gods Commandment, is the procurement of his indig<g ref="char:EOLhyphen"/>nation.</q>
+                        </p>
+                        <p n="54">
+                           <hi>54. To. 2. Hom. VIII.</hi>
+                           <q>It appeareth to be Gods good-will and pleasure, that we should at special times, and in special places, gather our selves to<g ref="char:EOLhyphen"/>gether, to the intent his Name might be renowned, and his glory set forth in the Congregation and Assembly of his Saints. — And therefore by this Commandment, we ought to have time, as one day in the week, wherein we ought to rest, yea from our lawful and needful works.</q>
+                        </p>
+                        <p n="55">
+                           <hi>55. To. 2. Hom. VIII.</hi> —<q>This Commandment doth not bind Christian people as touching the precise keeping of the <hi>seventh day,</hi> after the manner of the <hi>Jews;</hi> for we keep now the <hi>first</hi> day. This Example and Commandment of God, the godly Christian people began to follow immediately after the ascen<g ref="char:EOLhyphen"/>sion of our Lord Christ, —chusing a standing day, not the Seventh, which the <hi>Jews</hi> kept; but the Lords-day, the day of the Lords Resurrection, the day after the seventh day, which is the First day of the Week.</q>
+                        </p>
+                        <p n="56">
+                           <hi>56. To. 2. Hom. VIII.</hi>
+                           <q>Gods Will and Commandment was to have a solemn time, and standing day in the week, wherein the people should come together, and have in remembrance his wonderful benefits, and to render him thanks for them, as appertaineth to loving, kind, and obedient people. — Saint <hi>John</hi> saith, <hi>Rev. 1. I was in the Spirit on the Lords day.</hi> Since which time Gods people hath always, in all Ages, without any gainsaying, us d to come together upon the Sunday, to celebrate and honour the Lords blessed Name, and carefully to keep that in holy rest and quietness, both man, wo<g ref="char:EOLhyphen"/>man, child, servant, and stranger.</q>
+                        </p>
+                        <p n="57">
+                           <hi>57. To. 2. Hom. VIII.</hi>
+                           <q>For the transgression and breach of the <hi>Sabbath-day,</hi> God hath declar<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>d himself much to be grieved, as <hi>Numb. 15;</hi> but alas! the wicked boldness of those that will be a counted Gods people, who pass no<g ref="char:EOLhyphen"/>thing at all of k<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>eping and hallowing the Sunday, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y use all days alike. They will not r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>st in holiness, as God commandeth; but they rest in ungodli<g ref="char:EOLhyphen"/>ness and filthines<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>, prancing in their pride, pranking and pricking, pointing and painting themselves to be gorgeous and gay; they rest in excess and super<g ref="char:EOLhyphen"/>fluity, in gluttony and drunkenness, like Rats and Swine; they rest in brawl<g ref="char:EOLhyphen"/>ing and railing, in quarrelling and fighting; they rest in wantonness, in toy<g ref="char:EOLhyphen"/>ish talkings, in filthy fleshliness: So that it doth evidently appear, that God is more d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>sho<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>ured, and the Devil better serv'd on the Sunday <hi>(i. e. Lords-day)</hi> than upon all the days in the week beside.</q> —</p>
+                        <p n="58">
+                           <hi>58. To. 2. Hom. VIII.</hi>
+                           <q>Like as it appeareth by this Comman<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ment, that no man in the six days ought to be slothful or idle, but diligently to labour in that sta<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e wherein God hath set him. So God doth not only command the observation of this holy day, but also by his own example doth stir and provoke us to the keeping of it.</q>
+                        </p>
+                        <p n="59">
+                           <hi>59.</hi> Governours, — <hi>Hom. X. p. 2.</hi>
+                           <q>Every degree of people in their Voca<g ref="char:EOLhyphen"/>tion, Calling, Office, hath appointed them their duty and order: some are in high degree, some in low; some Kings and Princes, some Inferiors and Subjects, <hi>Mi<g ref="char:EOLhyphen"/>nisters</hi> and <hi>People,</hi> Masters and Servants, Fathers and Children, Husbands and Wives, <hi>&amp;c.</hi>
+                           </q>
+                        </p>
+                        <p n="60">
+                           <hi>60. To. 1. Hom. V. p. 3.</hi>
+                           <q>Disobey not your Fathers and Mothers, but ho<g ref="char:EOLhyphen"/>nour them, help them, please them to your power. <hi>Hom. X. p. 2.</hi> Yet let us be<g ref="char:EOLhyphen"/>lieve undoubtedly (good Christian people) that we may not obey Kings, Magi<g ref="char:EOLhyphen"/>strates, or any other (though they be our own Fathers) if they would command us to do any thing contrary to Gods Commandment.</q>
+                        </p>
+                        <p n="61">
+                           <hi>61. To. 1. Hom. X. p. 3.</hi>
+                           <q>By obedience to our Superiours shall we please God, and have the exceeding benefit, peace of conscience, rest and quietness here in this world, and after this life enjoy a better life.</q>
+                        </p>
+                        <p n="62">
+                           <hi>62. Hom. V. p. 3.</hi>
+                           <q>Cast in your minds, how you may do good unto all men, unto your power, and hurt no man.—But help and succour every man as you may.</q>
+                        </p>
+                        <p n="63">
+                           <hi>63. To. 2. Hom. XXI. p. 3.</hi>
+                           <q>Robberies and murthers of all sins are most loathed of most men, being against the second Table of Gods Law.</q>
+                        </p>
+                        <p n="64">
+                           <hi>64. To. 1. Hom. XI.</hi>
+                           <q>Christ doth not only establish the Law against Adul<g ref="char:EOLhyphen"/>tery, and make it of full f<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>rce; but teacheth us an exact and full perfection of purity and cleanness of life, both to keep our bodies und<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>filed, and our hearts pure and free from all evil thoughts, carnal desires, and fleshly consents.</q>
+                        </p>
+                        <p n="65">
+                           <hi>65. To. 1. Hom. V. p. 2.</hi>
+                           <q>Commit no manner of adultery, fornication, or other unchastness, in will, not in deed, with any other mans wife, widow, or maid. <hi>Hom. XI.</hi> Here is whoredom, fornication, and all other unclean<g ref="char:EOLhyphen"/>n<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>s <gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>orbidden to all kinds of people, all degrees, and all ages, without ex<g ref="char:EOLhyphen"/>ception.</q>
+                        </p>
+                        <p n="66">
+                           <hi>66. Hom. V.</hi>
+                           <q>Bestow your own goods charitably, which you get duly, as need and case requireth. <hi>Hom. VI.</hi> Bear good will and heart unto every man, to use your selves well unto them, as well in words and countenances, as in all outward acts and deeds.</q>
+                        </p>
+                        <p n="67">
+                           <hi>67. To. 2. Hom. XVII. p. 2.</hi>
+                           <q>So many as encrease themselves by usury, by extortion, by perjury, by stealth, by deceits and craft, they have their goods of the Devils gift.</q>
+                        </p>
+                        <p n="68">
+                           <hi>68. To. 1. Hom. 12. p. 3.</hi>
+                           <q>If we be good and quiet Christian men, let it appear in our tongues: If we have forsaken the Devil, let us use no more de<g ref="char:EOLhyphen"/>vilish tongues.</q>
+                        </p>
+                        <p n="69">
+                           <hi>69. To. 1. Hom. XII. p. 3.</hi>
+                           <q>He that hath been a malicious slanderer, now let him be a loving comforter. — He that hath abused his tongue in evil speaking, now let him use it in speaking well. All bitterness, anger, railing, and blasphemy, let it be avoided from you.</q>
+                        </p>
+                        <p n="70">
+                           <hi>70. To. 1. Hom. V. p. 3.</hi>
+                           <q>Covet not wrongfully, but content your selves with that which you get truly, and also bestow your own goods charitably, as need and case requireth.</q>
+                        </p>
+                        <p n="71">
+                           <hi>71. To. 2. Hom. XXI. p. 3.</hi>
+                           <q>Coveting or desiring of other mens Wives, Houses, Lands, Goods and Servants, willing to leave unto no man any thing of his own.</q>
+                        </p>
+                        <p n="72">
+                           <pb n="5" facs="tcp:66162:3"/>
+                           <hi>72. Artic. XIII.</hi>
+                           <q>Works done b<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>fore the grace of Christ, and the inspiration of his Spirit, are not pleasant to God, forasmuch as they sp<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ing not of faith in Jesus Christ; neither do they make men meet to r<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ceive grace, or (as the School-Authors say) de<g ref="char:EOLhyphen"/>serve grace of congruity; yea, rat<gap reason="illegible" resp="#keyers" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap> for that th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y are not done as God hath willed and commanded them to be done, we doubt not but they have the nature of sin. <hi>Hom. III. p. 2.</hi>— Let us therefore not be asham'd to confess plainly our state of <gap reason="illegible" resp="#keyers" extent="4 letters">
+                                 <desc>••••</desc>
+                              </gap>r<g ref="char:EOLhyphen"/>fection; yea, let us not be ashamed to confess imperfection, even in all our best works.</q>
+                        </p>
+                        <p n="73">
+                           <hi>73. Hom. V. p. 3.</hi>
+                           <q>Christ saith, <hi>Wo be unto you, for you devour wi<g ref="char:EOLhyphen"/>dows houses under colour of long prayers, therefore your damnation shall be greater.</hi> — You make them Children of Hell wo<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>se than your selves be. <hi>Hom. VIII. p. 2.</hi> Children of unbelief of two sorts, who d<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>spair, and p<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>s<gap reason="illegible" resp="#keyers" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>; and both these sorts of men be in a damnable state.</q>
+                        </p>
+                        <p n="74">
+                           <hi>74. Hom. XX. p. 1.</hi>
+                           <q>We do daily and hourly by our wickedness and stubborn disobedience, horribly fall away from God, thereby purchasing unto our selv<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>s (if he should deal with us according to his justice) eternal damnation.</q>
+                        </p>
+                        <p n="75">
+                           <hi>75. Hom. XX. p. 1.</hi>— <q>There is no other way whereby the wrath of God may be pacified, and his anger asswaged, — but by repentance to obtain mercy. — And with a full purpose of amendment of life, fleeing to the mercy of God, taking sure hold thereupon, through faith in his Son Jesus Christ, th<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>re is an assured and infalli<g ref="char:EOLhyphen"/>ble hope of pardon and remission, — and that we shall be re<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>i<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>d into the favour of our heavenly Father.</q>
+                        </p>
+                        <p n="76">
+                           <hi>76. Hom. IV. p. 1.</hi>
+                           <q>
+                              <hi>Of Faith.</hi> It consisteth not only in believing that the Word of God is true. — But it is also a true trust and confidence of the mercy of God through our Lord J<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>sus Christ, — hanging only upon him, and calling upon him, ready to obey and love him. — It being the fi<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>st coming un<g ref="char:EOLhyphen"/>to God whereby we are justified. <hi>To. 2. Hom. XI.</hi> Ʋnfeigned faith is t<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>e only mean and instrument of salvation required on our parts.</q>
+                        </p>
+                        <p n="77">
+                           <hi>77. Hom. XX. Of Repentance.</hi>
+                           <q>Which is a returning again of the w<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ole man unto God, from whom we be faln away by sin,— We must return from those things whereby we have been withdrawn, pluck'd, and led away from God. — Ʋnto whom alone we must return, — not to the creatures, or the in<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>entions of men, or our own merits,—by Jesus Christ, — who hath made sat<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap> fa<g ref="char:EOLhyphen"/>ction to the Justice of God,— with our whole heart,— forsaking all that is contrary to Gods Will, — out of a sincere love of godliness.</q>
+                        </p>
+                        <p n="78">
+                           <hi>78. Hom. 5. p. 3.</hi>
+                           <q>Apply your selves chiefly, and above all things, to read and hear Gods Word; mark diligently therein what his will is you should do, and with all your endeavours apply your selves to follow the same.</q>
+                        </p>
+                        <p n="79">
+                           <hi>79. To. 2. Hom. XVII. p. 1.</hi>
+                           <q>Let us in faith and charity call upon the Fa<g ref="char:EOLhyphen"/>ther of mercy, by the mediation of his well beloved Son our Saviour, that we may be assisted with the presence of his holy Spirit, and profitably on our parts demean our selves in speaking and hearkening to the salvation of our souls. <hi>Hom. XVI. p. 2.</hi> And he of his great mercy so work in all mens hearts, by the mighty power of the Holy Ghost, that the comfortable Gospel of his Son Christ may be truly preached, truly received, and truly fol<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>owed in all places, to the beating down of Sin, Death, the Pope, the Devil, and all the K<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ng<g ref="char:EOLhyphen"/>dom of Antichrist. <hi>Hom. XVII. p. 3.</hi> We should not be able to beli<gap reason="illegible" resp="#keyers" extent="2 letters">
+                                 <desc>••</desc>
+                              </gap>e and know these great mysteries that be open'd to us by Christ, <hi>but by the Holy Ghost.</hi>
+                           </q>
+                        </p>
+                        <p n="80">
+                           <hi>80. Hom. I. p. 1.</hi>
+                           <q>The <hi>Scriptures</hi> have power to turn through Gods pro<g ref="char:EOLhyphen"/>mise, and they be effectual through Gods assistance; and being received in a faithful heart, they have ever an heavenly spiritual working in them — In reading Gods Will he profits most, that is most turn'd into it, that is most inspired with the <hi>Holy Ghost,</hi> most in heart and life chang'd into that thing which he readeth.— Read it humbly with a meek and lowly heart, to the intent you may glorifie God, and not your self, with the knowledg of it; and read it not without daily praying to God, that he would direct your reading to a good effect.—</q>
+                        </p>
+                        <p n="81">
+                           <hi>81. Artic. XXVI.</hi>
+                           <q>The effect of Christs Ordinance is not taken away by the Ministers wickedness, neither the grace of Gods gifts diminish'd from such as by faith and rightly do receive the Sacraments ministred to them, which be effectual because of Christs institution and promise, although they be ministred by evil men. Nevertheless it appertaineth to the discipline of the Church, that enquiry be made of evil Ministers, and that they be accused by those that have knowledg of their offences; and finally, being found guilty, by just judgment be deposed.</q>
+                        </p>
+                        <p n="82">
+                           <hi>82. Hom. Of Com. Prayer, and Sacraments.</hi>
+                           <q>A Sacrament is a visible sign of an invisible grace, <hi>i. e.</hi> setteth out to the eyes and other outward senses, the inward working of Gods free mercy, and doth (as it were) seal in our hearts the promises of God.</q>
+                        </p>
+                        <p n="83">
+                           <hi>83. Artic. XXV.</hi>
+                           <q>There are two Sacraments ordained of Christ our Lord in the Gospel, <hi>i. e.</hi> Baptism and the Supper of the Lord. — <hi>To. 2. Hom. IX.</hi> There be but two: namely, Baptism and the Supper of the Lord.</q>
+                        </p>
+                        <p n="84">
+                           <hi>84. Artic. XXVII.</hi>
+                           <q>It is a sign of regeneration or new birth, whereby (as by an instrument) they that receive Baptism rightly, are grafted into the Church; the promises of forgiveness of sin, of our adoption to be the Sons of God by the Holy Ghost, are visibly signed and sealed.</q>
+                        </p>
+                        <p n="85">
+                           <hi>85. Artic. XXII.</hi>
+                           <q>The Baptism of young Children, is in any wise to be retained in the Church, as most agreeable with the ins<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>itution of Christ.</q>
+                        </p>
+                        <p n="86">
+                           <hi>86. Artic. XXVIII.</hi>
+                           <q>It is a Sacrament of our R<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>demption by Christs death. Insomuch that to such as rightly, worthily, and with faith receive the fame, the bread which we break is partaking of the body of Christ; and likewise the Cup of blessing is a partaking of the blood of Christ.</q>
+                        </p>
+                        <p n="87">
+                           <hi>87. To. 2. Hom. XV.</hi>
+                           <q>We must certainly know, that three things be re<g ref="char:EOLhyphen"/>quisite in him which would seemly, as becometh such high mysteries, resort to the Lords Table, <hi>i. e.</hi> first, a right and worthy estimation and understanding of this mystery. Secondly, To come in a sure faith. Thirdly, To have newness or pureness of life to succeed the receiving of the same.</q>
+                        </p>
+                        <p n="88">
+                           <hi>88. To. 2. Hom. VII. p. 1.</hi> — <q>Be fervent in prayer, assuring our selves, that whatsoever we ask of God the Father in the Name of his Son Christ, and according to his will, he will undoubtedly grant it.</q>
+                        </p>
+                        <p n="89">
+                           <pb n="6" facs="tcp:66162:4"/>
+                           <hi>89. To. 2. Hom. VII. p. 3.</hi>
+                           <q>What better example can we desire to have than of Christ himself, who taught his Disciples and other Christian men, first to pray for heavenly things, and afterwards for earthly things, as is to be seen in that Prayer which he left unto his Church, commonly called the Lords-Prayer.</q>
+                        </p>
+                        <p n="90">
+                           <hi>90. Hom. XVII.</hi>
+                           <q>Consider his great power to make us dread and fear;— high wisdom, — inestimable goodness, to take good heart again to trust well unto him,—being assured to take him for our refuge, our hope and comfort, our merciful Father, in all the cases of our lives.</q>
+                        </p>
+                        <p n="91">
+                           <hi>91. To. 2. Hom. VII. p. 3.</hi> — <q>We are taught whensoever we make our prayers unto God, chiefly to respect the honour and glory of his Name.</q>
+                        </p>
+                        <p n="92">
+                           <hi>92. To. 2. Hom. XVI. p. 2.</hi>
+                           <q>He of his great mercy so works in all mens hearts, by the mighty power of the Holy Ghost, that the comfortable Gospel of his Son Christ may be truly preached, truly received, and truly followed in all places, to the beating down of sin, death, the Pope, the Devil, and all the Kingdom of Antichrist; that like scattered and dispersed sheep, being at length gathered in<g ref="char:EOLhyphen"/>to one fold, we may in the end rest all together in the bosom of <hi>Abraham, Isaac,</hi> and <hi>Jacob,</hi> there to be partakers of eternal and everlasting life, through the me<g ref="char:EOLhyphen"/>rits and death of Jesus Christ our Saviour.</q>
+                        </p>
+                        <p n="93">
+                           <hi>93. To. 2. Hom. XXIII.</hi>
+                           <q>As God the Creator and Lord of all things, ap<g ref="char:EOLhyphen"/>pointed his Angels and heavenly Creatures, in all obedience to serve and honour his Majesty; so was it his will, that man his chief Creature upon the earth, should live under the obedience of his Creator and Lord.</q>
+                        </p>
+                        <p n="94">
+                           <hi>94 To. 2. Hom. VI.</hi>
+                           <q>
+                              <hi>(Our daily bread)</hi> i. e. all things necessary for this our needy life. <hi>Hom. VII. p. 3.</hi> When we have sufficiently pray'd for things belonging to the soul, then may we lawful<gap reason="illegible" resp="#keyers" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>y and with safe conscience pray also for our bodily necessities, as meat, drink, cloathing, health of body, delive<g ref="char:EOLhyphen"/>rance out of prison, <hi>&amp;c.</hi>
+                           </q>
+                        </p>
+                        <p n="95">
+                           <hi>95. Tom. 2. Hom. IX.</hi>
+                           <q>—The Lords Prayer hath not only a respect to particular persons, but to the whole universal, in the which we openly pronounce that we will forgive them which have offended against us, even as we ask forgiveness of our sins of God.</q>
+                        </p>
+                        <p n="96">
+                           <hi>96. To. 2. Hom. IX.</hi>— <q>Must crave continually of God the help of his holy Spirit, so to rule their hearts, lest hatred and debate do arise, —brawl<g ref="char:EOLhyphen"/>ings, tauntings,—cursings, fightings: Which are from the ghostly enemy, who taketh great delight therein. —They are compassed by the Devil, whose temptation if followed must needs begin and weave the web of all mise<g ref="char:EOLhyphen"/>ries and sorrows.</q>
+                        </p>
+                        <p n="97">
+                           <hi>97. To. 2. Hom. 9. '(Amen)</hi> which word is as much as to say, as truth, that the blessing or thanksgiving may be confirm'd.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+         <div type="part">
+            <p>
+               <hi>THis sweet Harmony and fair Agreement of</hi> English Protestants <hi>in the Main Principles of Christianity, is here most humbly presented to the Consideration of the High and Honourable Court of Parliament at this Juncture, now they are consulting how they may answer the expectation of His Most Excellent Majesty in his Speech of</hi> March <hi>the 16th. wherein he said,</hi> As I doubt not, but you will sufficiently provide against Papists, so I hope you will leave room for the Ad<g ref="char:EOLhyphen"/>mission of all Protestants that are willing and able to serve. This Conjunction in my Service will tend to the better Ʋniting you a<g ref="char:EOLhyphen"/>mongst your selves, and the Strengthening you against your Common Adversaries. <hi>And now they are about a Bill of Ease or Indulgence to the tender Consciences of Protestant Dissenters, from the Establishment in lesser Matters, considering what the present</hi> Lord Bishop of Salisbury <hi>hath Learnedly in several of his Books written unanswerably against Persecuti<g ref="char:EOLhyphen"/>on; and having in one Sermon truly given it as the</hi> Character and Glory of this Nation, that Tenderness and Compassion are natural to it; <hi>and what he hath rightly observ'd in another of Thanksgiving from</hi> Psal. <hi>144.15.</hi> p. <hi>220.</hi> The exact Conduct of Publick Justice; and the avoiding every Invasion upon the freedom of Conscience, which is the first and most sacred of all a mans rights, are the surest ways to prevent all just cause of complaint; to speak the truth, and to work righteousness, and relieve the Oppressed without respect of Persons, to plead the cause of the Widow and the Fatherless, and the not ruling over the Con<g ref="char:EOLhyphen"/>sciences of any with force or cruelty, but the leaving Men within the limits of a just discretion, as to the manner of it, the entire freedom of serving God in the sincerity of their Hearts, will put an end to many heavy and just complaints, which have been pour<g ref="char:EOLhyphen"/>ed out before God in the bitterness of many mens Spirits; whose lives have been made a burden to them, only because they could not act contrary to those perswasions, which they were not able to change or overcome. <hi>As also what was written by a Learn<g ref="char:EOLhyphen"/>ed Prebend of that same Cathedral of</hi> Sarum, <hi>about six or seven years ago, to his (then) great hazard in his Pro<g ref="char:EOLhyphen"/>testant Reconciler, humbly pleading for condescention to his Dissenting Brethren, in things indifferent, for the sake of Peace; and shewing how unreasonable it is to make such things necessary conditions of Communion: which most Christian and generous undertaking, did afterwards in those evil days expose him to the lash of some of his high-flown imposing Brethren, who considered not (unless backward) the great service he had before done, in laying open the</hi> Idolatry of the Papists. <hi>Tho' in his Preface he urged the determination of</hi> King <hi>James</hi> the First; <hi>viz.</hi> —For Concord there is no nearer way, than diligently to separate things necessary from the unnecessary, and to bestow all our labour that we may agree in the things necessary, and that in things unnecessary there may be Christian Liberty allow'd: Now His Majesty calls those things simply necessary which the Word of God expresly commandeth to be believed or done, or which the Ancient Church did gather from the Word of God by necessary consequence: But those things which by the Constitution of Men, without the Word of God, were for a time received into the Church of God, tho' piously and prudently introduc'd, His Majesty conceives they may be Changed, Mollified, Antiquated. <hi>And of King</hi> Charles <hi>the First, with Advice of his Privy Council, 1641.</hi> As for differences among our selves, for matters indifferent in their own nature, concerning Religion, we shall in tenderness to any num<g ref="char:EOLhyphen"/>ber of our Loving Subjects, very willingly comply with the Advice of our Parliament, that some Law may be made for the exemp<g ref="char:EOLhyphen"/>tion of tender Consciences from punishment, or Prosecution for such Ceremonies, and in such cases, which by the judgment of most men are held to be matters indifferent, and of some to be absolutely unlawful. <hi>And of King</hi> Charles <hi>the Second in his Decla<g ref="char:EOLhyphen"/>ration from</hi> Breda, <hi>April 4. 1660.</hi>—We do declare a Liberty to tender Consciences, and that no Man shall be disquieted or called in question for differences of Opinion, <hi>which do not disturb the peace of the Kingdom;</hi> and that we shall be ready to consent to such an Act of Parliament, as upon mature deliberation shall be offered to us, for the full granting that Indulgence.
+<pb n="7" facs="tcp:66162:4"/>
+               <hi>And in his Declaration concerning Ecclesiastical Affairs,</hi> Octob. <hi>25. 1660.</hi> We do not think that reverence we have for the Church of <hi>England</hi> in the least degree diminished by our condescention, not peremptorily to insist upon some particulars of Cere<g ref="char:EOLhyphen"/>mony, which however introduc'd by the Piety and Devotion, and Order of former times, may not be so agreeable to the present, but may even lessen that Piety and Devotion, for the improvement whereof they might happily be first introduced, and consequently may well be dispensed with, <hi>&amp;c. He doth further urge there Opinions to the same purpose of the Lord Chief Justice</hi> Hale, <hi>Lord Chancellor</hi> Hyde, <hi>Lord</hi> Falkland, <hi>Arch-bishop of</hi> Armagh, <hi>Arch-bishop of St.</hi> Davids, <hi>May 23. 1604. Bishop</hi> Taylor, Hall, Davenant, Morton, Wilkins, Prideaux, Brownrig, Hacket, <hi>Bishop of</hi> Cork <hi>and</hi> Rosse <hi>in</hi> Ireland, <hi>the present Learned Deans of</hi> Canterbury <hi>and</hi> London, <hi>and of several Reformed Divines abroad, and the close arguings of Mr.</hi> Baxter <hi>at Home, alledging that the laying on of unnecessary burdens,</hi> seems to be coming after Christ to amend his Laws, correct his Works, and make better Laws and Ordinances for his Church, than he himself hath done; for if Christ would have such Rites impos'd upon the Churches, he could better have done it himself, than have left it to Man, for those Rites are equally necessary or unnecessary throughout all Ages, and in all places where Christianity obtains. If <hi>Crossing, Kneeling, Surplice,</hi> be needful to be used in the Church of <hi>England,</hi> why not <hi>in all the Churches of the Saints?</hi> If they are needful or expedient for Order, <hi>Uniformity,</hi> for reverence and decency in this Age, why not in that in which our Lord and his <hi>Apostles</hi> lived, and through all subsequent Ages of the Church? If therefore Christ did neither by <hi>himself,</hi> nor his <hi>Apostles,</hi> who formed the <hi>First Churches,</hi> and delivered us his mind by the <hi>Spirit, institute</hi> and impose these <hi>Rites,</hi> then either the imposing them is needless, or else you must say that Christ hath omitted what was needful to the due performance of his worship, which seemeth to imply, that either he was ignorant of what to do, or careless and neglective of his own Affairs; which cannot be asserted without Blasphemy. <hi>Thus far he urged Mr.</hi> Baxter, <hi>who hath heartily laboured heretofore more abundantly than us all for the Union of Protestants, and doth still labour, as may be seen by the warmth of his Fifty Serious Questions in the close of his new Book now published, Entituled, The English-Nonconformity, as under King</hi> Charles <hi>II. and King</hi> James <hi>II. truely Stated and Argued by him, who (in the Title page) earnestly beseecheth Rulers, and Clergy, not to Divide, and Destroy the Land, and cast their own Souls on the dreadful Guilt and Punishment of National Perjury, Lying, deliberate Covenanting to Sin against God, corrupt his Church, and not Amend, nor by Laws or blind Ma<g ref="char:EOLhyphen"/>lignity, to reproach faithful Ministers of Christ, and Judge them to Scorn and Beggery, and to Lie and Die in Jails as Rogues, and so to strengthen Profaneness, Popery and Schism, and all for want of willingness and patience to Read and Hear their just Defence; while they can spend much more time in Sin and Vanity. The Author humbly begs that he and his Books of unconfutable Defence of a Mistaken persecuted Cause may not be Witnesses against them for such great and wilful Sin to their Condemnation. To which purpose this holy Man, and his Brethren in Com<g ref="char:EOLhyphen"/>mission with him, above twenty seven years ago, did speak and write in</hi> a Petition for Peace, <hi>to the most Reverend Arch-bishops and Bishops, and the Reverend their Assistants Commission'd by his (then) Majesty, to treat about the Alteration of the Book of Common-prayer, wherein they humbly Petition them in the same Commission,</hi> on the be<g ref="char:EOLhyphen"/>half of these yet troubled and unhealed Churches, and of many thousand Souls that are dear to Christ, on whose behalf <hi>say they there,</hi> we are press'd in Spirit, in the sense of duty, most earnestly to beseech you, as you tender the peace and prosperity of these Churches, the comfort of His Majesty in the Ʋnion of his Subjects, and the peace of your Souls in the great day of your Accounts, that, laying by all former and present exasperating and alienating differences, you will not now deny us your consent and assistance to those means that shall be prov'd honest and cheap, and needful to those great desirable ends, for which we all profess to have our Offices and Lives. <hi>They pathetically plead there, amongst many other cogent Motives.</hi> We beseech you consider, when you should promote the joy and thankfulness of his <hi>(then)</hi> Majesties Subjects for his happy Restauration, <hi>(and is there not the same reason now for the signal advancement of His present Majesty to the Throne, upon His Declaration for Civil and Sacred Liberties?)</hi> Whether it be equal and seasonable to bring upon so many of them—calamities in depriving them of the liberty of publick worship, far greater than the meer loss of all their worldly sustenance can amount to: In a day of common joy to bring this causlesly on so many of His Majesties Subjects, and to force them to lye down in Heart-breaking sorrows, as being almost as far undone, as man can do it; this is not a due requital of the Lord for so great deliverances: Especially considering that if it were never so certain, that it is the sin of the Ministers that dare not be Re-ordained or Conform; it's hard that so many thousand of innocent People should suffer even in their Souls for the fault of others.—And if we thought it would not be misinter<g ref="char:EOLhyphen"/>preted, we would here remember you, how great and considerable a part of the Three Nations they are, that must either incur these sufferings, or condole them that undergo them, and how great a grief it will be to His Majesty to see his grieved Subjects, and how great a joy it will be to him, to have their Liberty, Thanks and Prayers, and to see them live in Prosperity, Peace and Com<g ref="char:EOLhyphen"/>fort under his happy Government. And we may plead the nature of their cause, to move you to compassionate your afflicted Bre<g ref="char:EOLhyphen"/>thren in their Sufferings. It is in your own account, but for refusing Conformity to things indifferent, or, at the most, of no necessi<g ref="char:EOLhyphen"/>ty to Salvation. And we crave leave to represent to you the great disproportion in necessity and worth, between the things in Question, and the Salvation of so many, as may be obtain'd by a free and faithful exercise of the Ministry of those that now are, and that are yet like to be laid aside; do you think the Lord that died for Souls, and hath sent us to learn what meaneth <hi>[I will have mercy and not sacrifice,</hi> Mat. <hi>9.13.]</hi> is better pleas'd with Re-ordination, Subscription and Ceremonies, than with the saving of Souls, and the means of his own appointment? —How comes it to pass that Ʋnity, Concord, and Order, must be placed in those things which are no way necessary thereto? Will there not be Order and Concord in holy Obedience, and accepta<g ref="char:EOLhyphen"/>ble Worshipping of God, on the terms which we now propose and crave, without the aforesaid matter of offence? —We humbly crave we may not in this be more rigorously dealt with, than the Pastors and People of the Primitive Church were: —We humbly crave leave to oer it to your consideration, what judgment all the Protestant Churches are likely to pass on your Proceed<g ref="char:EOLhyphen"/>ings, and how your cause and ours will stand represented to them and all succeeding Ages. —And you know if we are not in point of Ceremonies or Forms, in every thing, of your mind; it is no more strange to have variety of Intellectual Apprehensions in the same Kingdom and Church, than variety of Temperatures, and degrees of Age and Strength. —We beseech you also con<g ref="char:EOLhyphen"/>sider that Men have not their Ʋnderstandings at their command; much less can they be commanded by others: If they were ne<g ref="char:EOLhyphen"/>ver so willing to believe all that is imposed on them to be lawful, they cannot therefore believe it, because they would, the Intellect being not free. —Nothing more affecteth us, than to think of the lamentable Divisions that have been caused, and are still like to be, whiles things unnecessary are so imposed: And on the contrary, how blessed an Ʋnity and Peace we might enjoy, if these occasions of Division were removed, and we might but have leave to serve God as his Apostles did. <hi>Very much more (which it would be tedious to bring into this Paper) may be seen in that most affectionate</hi> Petition for Peace.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Published by</hi> Richard Janeway <hi>in</hi> Queens-Head-Alley <hi>in</hi> Pater-Noster-Row, <hi>1689.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
